@@ -1,0 +1,304 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.2/font/bootstrap-icons.min.css");
+
+.body
+{
+    margin: 0px;
+    display: flex;
+    background-image: url(/images/4873152.jpg);
+
+
+}
+
+.vibe
+{
+    margin-top: 15px;
+    color: bisque;
+
+}
+
+
+
+.navbar ul
+{
+    display: flex;
+    list-style-type: none;
+    
+}
+
+.n
+{
+    background-color: rgb(60, 56, 56) 
+    
+
+}
+
+.navbar
+{
+    display: flex;
+    justify-content: space-between;
+    height: 50px;
+    font-family: 'Oswald', sans-serif;
+    color: white;
+    font-size: 17px;
+
+
+}
+
+
+.navbar ul li
+{
+    display: flex;
+    padding: 5px 10px;
+    
+    
+}
+
+.search
+{
+     margin: 10px 5px;
+     padding: 8px 5px;
+     height: 15px;
+     border-radius: 10px;
+     border-width: 0.1px;
+     margin-top: 17px;
+}
+
+.nav2
+{
+    display: flex;
+    list-style-type: none;
+    padding: 5px 10px;
+    margin: 30px 10px;
+    font-size: 21px;
+    font-family: 'Montserrat', sans-serif;
+    cursor: pointer;
+    justify-content: space-between;
+    
+}
+
+
+/* hero css */
+
+.card
+{   
+    
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 50px;
+    flex-wrap: wrap;
+    padding: 1px;
+    border: none;
+    border-radius: 10px;
+    object-fit: cover; 
+    
+    
+}
+
+
+.card img
+{
+    height: 500px;
+    border-radius: 8px;
+}
+
+.image
+{   
+    
+    margin: 20px;
+    box-shadow: rgb(198, 198, 235) 15px 12px 15px ;
+    filter: brightness(100%); 
+    object-fit: cover; 
+    size-adjust: 5;          
+    border-radius: 8px;
+    background-color:rgb(198, 198, 235);
+}
+
+.winterwear
+{
+    margin-left: 35px;
+    object-fit: cover;
+}
+
+.trend
+{
+    font-size: 25px;
+}
+
+.categories
+{
+       
+    display: flex;
+    /* object-fit: cover; */
+    flex-wrap: wrap;
+    cursor: pointer;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+       
+}
+
+
+.text
+{
+    margin-top: 0px;
+    text-align: center;
+}
+
+.cate img
+{
+    object-fit: cover;
+    padding:18px;
+    margin: 4px;
+    height: 200px;
+    width: 200px;
+    justify-content: space-evenly;
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+.Best
+{
+    /* font-family: 'DM Serif Display', serif; */
+    font-size: 30px;
+}
+
+.seller
+{
+    /* border: solid; */
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.Bestsellers
+{
+    border: solid bisque 1px;
+    border-radius: 8px;
+    box-shadow: bisque 5px 5px 10px;
+    width: 250px;
+    height: 370px;
+    /* border: solid red; */
+    margin: 10px;
+    justify-content: space-evenly;
+    
+    
+}
+
+.bi 
+{
+    
+    font-size: 18px;
+    /* margin-left: 65px; */
+    margin-top: 0px;
+    
+}
+
+.price
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+    color: brown;
+    
+}
+
+
+
+.Bestsellers img
+{
+    width: 250px;
+    height: 280px;
+    object-fit: contain;
+    filter: brightness(100%);
+    
+}
+
+.Bestsellers img:hover
+
+{
+    filter: brightness(80%);
+    
+}
+
+.bold
+{
+    font-size: 21px;
+    margin-left:10px ;
+    font-family: 'Oswald', sans-serif;
+}
+
+.describe
+{
+    margin-top: 2px;
+    margin-bottom: 0px;
+    margin-left:10px ;
+    opacity: 70%;
+}
+
+.btn
+{
+    width: 240px;
+    height: 27px;
+    margin-top: 5px;
+    margin-left: 4px;
+    background-color: black;
+    color: rgb(255, 255, 255);
+    font-size: 17px;
+    border-radius: 10px;
+    cursor: pointer;
+
+}
+
+.btn:hover
+{
+    background-color: white;
+    color: black;
+
+
+
+}
+
+.footer
+{
+    background-color: black;
+    color: white;
+    justify-content: space-evenly;
+    display: flex;
+    
+
+    
+}
+
+.c
+{
+
+    margin-top: 100px;
+    margin-right:150px;
+    margin-left: 100px;
+    padding: 8px 15px;
+    margin-bottom: 80px;
+    
+}
+
+.c ul
+{
+
+    list-style-type: none;
+}
+
+.logo
+{
+    margin-left: 0px;
+    padding-left: 35px;
+    font-family: 'Oswald', sans-serif;
+    font-size: 25px;
+    
+}
+
+.ft1
+ {
+    
+    font-size: 12px;
+    /* text-align: center; */
+    margin-top: 45px;
+    margin-right: 25px;
+    
+
+ }
